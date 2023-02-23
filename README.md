@@ -1,4 +1,4 @@
-# EscanerWebVulnerabilidades
+# EscanerWebVulnerabilidadesAvanzado
 
 El script aqui es un programa en Python que se utiliza para escanear vulnerabilidades de manera profesional en páginas web. Este script puede ser subido a un repositorio de GitHub para que otros usuarios puedan descargarlo y usarlo.
 
